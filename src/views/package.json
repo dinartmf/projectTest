@@ -1,0 +1,11 @@
+{
+  "name": "projectTest",
+  "version": "0.0.1",
+  "description": "Developer test (Concept)",
+  "main": "index.ejs",
+  "scripts": {
+    "test": "nodeunit"
+  },
+  "author": "Dinart Moreira",
+  "license": "MIT"
+}
